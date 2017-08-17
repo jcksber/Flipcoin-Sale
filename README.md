@@ -1,6 +1,5 @@
 
-# Coinflip Token Sale: 
-## ILLINOIS' PREMIER CRYPTOCURRENCY ATMS.
+# COINFLIP
 <div style="text-align:center"><img src = "/resources/backdrop.png"/>
 
 ## Important Resources
