@@ -5,8 +5,8 @@
 ## Important Resources
 - [Company Website](https://www.coinflip.tech)
 - [Crowdsale Website](https://www.flipcoinsale.com)
-- [One_Pager](/resources/ONE_PAGER.pdf)
 - [Whitepaper](/resources/WHITEPAPER.pdf)
+- [One_Pager](/resources/ONE_PAGER.pdf)
 - [Token sale flow](/SALE_MECHANISM.md)
 - [Token incentives](/TOKEN_INCENTIVES.md)
 
