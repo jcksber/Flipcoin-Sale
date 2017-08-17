@@ -1,5 +1,10 @@
-# IT'S THAT FLIPPIN' EASY
+## Flippin' Easy
 <div style="text-align:center"><img src = "/resources/backdrop.png"/>
+
+
+CoinFlip turns purchasing cryptocurrencies into an easy and straightforward process. What we do is simple; we deploy cryptocurrency ATMs and conduct in- person bitcoin trades, and earn a profit by making a market.
+
+# Coinflip Crowdsale
 
 
 ## Important Resources
