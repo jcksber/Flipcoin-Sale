@@ -1,20 +1,27 @@
 ## Flippin' Easy
 <div style="text-align:center"><img src = "/resources/backdrop.png"/>
 
+## What we do
 
 CoinFlip turns purchasing cryptocurrencies into an easy and straightforward process. What we do is simple; we deploy cryptocurrency ATMs and conduct in- person bitcoin trades, and earn a profit by making a market.
 
+Check out our [Company Website](https://www.coinflip.tech) for more details.
+
+
 # Coinflip Crowdsale
 
+With a rapid expansion plan, CoinFlip is proud to announce that we are know offering our proprietary Flipcoin tokens to our dedicated supports!
+
+Flipcoins will be treated as membership tokens in our network and provide our supporter's with many benefits such as discounts, consulting, crypto-networking events, and educational literature/videos created by CoinFlip.
+
+Check out the following resources for more information!
 
 ## Important Resources
-- [Company Website](https://www.coinflip.tech)
-- [Crowdsale Website](https://www.flipcoinsale.com)
-- [One_Pager](/resources/ONE_PAGER.pdf)
 - [Whitepaper](/resources/WHITEPAPER.pdf)
+- [One Pager](/resources/ONE_PAGER.pdf)
+- [Crowdsale Website](https://www.flipcoinsale.com)
 - [Token sale flow](/SALE_MECHANISM.md)
 - [Token incentives](/TOKEN_INCENTIVES.md)
-
 
 
 ## Contract ABI
