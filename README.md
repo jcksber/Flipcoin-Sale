@@ -1,7 +1,11 @@
+
+<img src = "/resources/CoinFlip_Banner.png"/>
+<img src = "/
+
+
 # Flipcoin Crowdsale Details
 
 
-<img src = "/resources/CoinFlip_Banner.png"/>
 
 ## Important Resources
 - [Company Website](https://www.coinflip.tech)
@@ -13,8 +17,11 @@
 ## Contracts
 
 Token:
-- [
-- [Flipcoin (ERC223)](/sale/contracts/token/Flipcoin20.sol)
-- 
+- [Flipcoin Token](/sale/contracts/token/Flipcoin20.sol)
+- [ERC223 Token](/sale/contracts/main/Flipcoin_Standard.sol)
+
+Token sale:
+- [Crowdsale](/sale/contracts/main/TokenSale.sol)
+
 
 
