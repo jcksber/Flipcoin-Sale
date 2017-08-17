@@ -8,7 +8,7 @@ CoinFlip turns purchasing cryptocurrencies into an easy and straightforward proc
 Check out our [Crowdsale Website](https://www.flipcoinsale.com) and [Company Website](https://www.coinflip.tech) for more details.
 
 
-# Coinflip Crowdsale
+# Coinflip Token Offering
 
 With a rapid expansion plan, CoinFlip is proud to announce that we are know offering our proprietary Flipcoin tokens to our dedicated supports!
 
