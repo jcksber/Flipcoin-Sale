@@ -14,20 +14,14 @@ With a rapid expansion plan, CoinFlip is proud to announce that we are know offe
 
 Flipcoins will be treated as membership tokens in our network and provide our supporter's with many benefits such as discounts, consulting, crypto-networking events, and educational literature/videos created by CoinFlip.
 
-Check out the following resources for more information!
+For questions, [contact us](info@coinflip.tech) or give us a call at: (773) 800-0106.
 
 ## Important Resources
 - [Whitepaper](/resources/WHITEPAPER.pdf)
 - [One Pager](/resources/ONE_PAGER.pdf)
-- [Token sale flow](/SALE_MECHANISM.md)
-- [Token incentives](/TOKEN_INCENTIVES.md)
-
-## Contract ABI
-
-To be released closer to crowdsale launch.
 
 
-# Technical definition
+# Technical Resources
 
 At the technical level FLP is a ERC20-compliant token, derived from [Consensys ERC20 Tokens](https://github.com/ConsenSys/Tokens).
 
@@ -42,6 +36,9 @@ Token:
 Token sale:
 - [Crowdsale](/sale/contracts/main/TokenSale.sol)
 
-For questions, [contact us](info@coinflip.tech) or give us a call at: (773) 800-0106.
+## Contract ABI
+
+To be released closer to crowdsale launch.
+
 
 <div style="text-align:center"><img src = "/resources/CoinFlip_Logo.png"/>
