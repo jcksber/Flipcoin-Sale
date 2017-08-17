@@ -27,11 +27,13 @@ At the technical level FLP is a ERC20-compliant token, derived from [Consensys E
 
 Along with the standard token, FLP has added functionality such as emergency stop/starts and minting options during crowdsales. 
 
+Feel free to check our contract codes below!
+
 # Contracts
 
 Token:
 - [Flipcoin Token](/sale/contracts/token/Flipcoin20.sol)
-- [ERC223 Token](/sale/contracts/main/Flipcoin_Standard.sol)
+- [ERC20 Token](/sale/contracts/main/Flipcoin_Standard.sol)
 
 Token sale:
 - [Crowdsale](/sale/contracts/main/TokenSale.sol)
