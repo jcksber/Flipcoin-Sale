@@ -1,6 +1,6 @@
 
-# COINFLIP
-<div style="text-align:center"><img src = "/resources/backdrop.png"/>
+# COINFLIP TOKEN SALE<div style="text-align:center"><img src = "/resources/backdrop.png"/>
+
 
 ## Important Resources
 - [Company Website](https://www.coinflip.tech)
