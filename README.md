@@ -32,17 +32,16 @@ Feel free to check our contract codes below!
 # Contracts
 
 Token:
-- [Flipcoin Token](/sale/contracts/token/Flipcoin20.sol)
+- [Flipcoin Token](/sale/contracts/main/Flipcoin20.sol)
 - [ERC20 Token](/sale/contracts/main/Flipcoin_Standard.sol)
 
 Token sale:
 - [Crowdsale](/sale/contracts/main/TokenSale.sol)
 
 ## Contract ABI
-
+'''
 To be released closer to crowdsale launch.
+'''
 
-
+Stay tuned! We'll be dedicated the next few weeks producing more content for you!
 <div style="text-align:center"><img src = "/resources/CoinFlip_Logo.png"/>
-
-Flippin' continued...
