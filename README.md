@@ -1,6 +1,5 @@
 
-<img src = "/resources/CoinFlip_Banner.png"/>
-<img src = "/
+<div style="text-align:center"><img src = "/resources/logo.png"/>
 
 
 # Flipcoin Crowdsale Details
