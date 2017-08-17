@@ -1,5 +1,5 @@
 
-# COINFLIP TOKEN SALE<div style="text-align:center"><img src = "/resources/backdrop.png"/>
+<div style="text-align:center"><img src = "/resources/backdrop.png"/>
 
 
 ## Important Resources
