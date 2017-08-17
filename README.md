@@ -21,7 +21,7 @@ For questions, [contact us](info@coinflip.tech) or give us a call at: (773) 800-
 - [One Pager](/resources/ONE_PAGER.pdf)
 
 
-# Technical Resources
+## Technical Resources
 
 At the technical level FLP is a ERC20-compliant token, derived from [Consensys ERC20 Tokens](https://github.com/ConsenSys/Tokens).
 
@@ -29,7 +29,7 @@ Along with the standard token, FLP has added functionality such as emergency sto
 
 Feel free to check our contract codes below!
 
-# Contracts
+## Contracts
 
 Token:
 - [Flipcoin Token](/sale/contracts/main/Flipcoin20.sol)
