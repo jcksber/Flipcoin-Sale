@@ -1,4 +1,4 @@
-# COINFLIP
+# IT'S THAT FLIPPIN' EASY
 <div style="text-align:center"><img src = "/resources/backdrop.png"/>
 
 
