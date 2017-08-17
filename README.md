@@ -42,3 +42,5 @@ To be released closer to crowdsale launch.
 
 
 <div style="text-align:center"><img src = "/resources/CoinFlip_Logo.png"/>
+
+Flippin' continued...
