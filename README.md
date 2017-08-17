@@ -42,7 +42,7 @@ Token sale:
 
 [To be released closer to crowdsale launch.]
 
-##Stay Tuned!
+## Stay Tuned!
 We'll be dedicated the next few weeks producing more content for you!
-<t> Coinflip Team
+<t> Coinflip Team </t>
 <div style="text-align:center"><img src = "/resources/CoinFlip_Logo.png"/>
