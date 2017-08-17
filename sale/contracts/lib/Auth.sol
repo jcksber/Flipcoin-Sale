@@ -19,6 +19,7 @@ contract Authority {
 contract AuthEvents {
     event LogSetAuthority (address indexed authority);
     event LogSetOwner     (address indexed owner);
+    event LogSetHelper    (address indexed helper):
 }
 
 // Auth
@@ -26,6 +27,8 @@ contract AuthEvents {
 contract Auth is AuthEvents {
     Authority public authority;
     address public owner;
+    address public founder;
+    address public helper;
 
     // Auth - constructor
     function Auth() {
@@ -39,6 +42,14 @@ contract Auth is AuthEvents {
     {
         owner = owner_;
         LogSetOwner(owner);
+    }
+
+    function setFounder(address founder_)
+        auth
+    {
+        founder = founder_;
+        LogSetHelper(helper);
+
     }
 
     function setAuthority(Authority authority_)
@@ -58,6 +69,8 @@ contract Auth is AuthEvents {
         if (src == address(this)) {
             return true;
         } else if (src == owner) {
+            return true;
+        } else if (src == founder) {
             return true;
         } else if (authority == Authority(0)) {
             return false;

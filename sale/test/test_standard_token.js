@@ -1,0 +1,75 @@
+// Thanks OpenZeppelin for the dope libraries
+
+'use strict';
+
+const assertJump = require('./helpers/assertJump');
+var Flipcoin_Standard = artifacts.require('./helpers/Flipcoin_Standard.sol');
+
+contract('StandardToken', function(accounts) {
+
+  let token;
+
+  beforeEach(async function() {
+    token = await Flipcoin_Standard.new(accounts[0], 100);
+  });
+
+  it('should return the correct totalSupply after construction', async function() {
+    let totalSupply = await token.totalSupply();
+
+    assert.equal(totalSupply, 100);
+  });
+
+  it('should return the correct allowance amount after approval', async function() {
+    let token = await Flipcoin_Standard.new();
+    await token.approve(accounts[1], 100);
+    let allowance = await token.allowance(accounts[0], accounts[1]);
+
+    assert.equal(allowance, 100);
+  });
+
+  it('should return correct balances after transfer', async function() {
+    let token = await Flipcoin_Standard.new(accounts[0], 100);
+    await token.transfer(accounts[1], 100);
+    let balance0 = await token.balanceOf(accounts[0]);
+    assert.equal(balance0, 0);
+
+    let balance1 = await token.balanceOf(accounts[1]);
+    assert.equal(balance1, 100);
+  });
+
+  it('should throw an error when trying to transfer more than balance', async function() {
+    let token = await Flipcoin_Standard.new(accounts[0], 100);
+    try {
+      await token.transfer(accounts[1], 101);
+      assert.fail('should have thrown before');
+    } catch(error) {
+      assertJump(error);
+    }
+  });
+
+  it('should return correct balances after transfering from another account', async function() {
+    let token = await Flipcoin_Standard.new(accounts[0], 100);
+    await token.approve(accounts[1], 100);
+    await token.transferFrom(accounts[0], accounts[2], 100, {from: accounts[1]});
+
+    let balance0 = await token.balanceOf(accounts[0]);
+    assert.equal(balance0, 0);
+
+    let balance1 = await token.balanceOf(accounts[2]);
+    assert.equal(balance1, 100);
+
+    let balance2 = await token.balanceOf(accounts[1]);
+    assert.equal(balance2, 0);
+  });
+
+  it('should throw an error when trying to transfer more than allowed', async function() {
+    await token.approve(accounts[1], 99);
+    try {
+      await token.transferFrom(accounts[0], accounts[2], 100, {from: accounts[1]});
+      assert.fail('should have thrown before');
+    } catch (error) {
+      assertJump(error);
+    }
+  });
+
+});
