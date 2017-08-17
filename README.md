@@ -1,14 +1,17 @@
 
-# Coinflip Token Sale
-<div style="text-align:center"><img src = "/resources/logo.png"/>
+# Coinflip Token Sale: 
+## ILLINOIS' PREMIER CRYPTOCURRENCY ATMS.
+<div style="text-align:center"><img src = "/resources/backdrop.png"/>
 
 ## Important Resources
 - [Company Website](https://www.coinflip.tech)
 - [Crowdsale Website](https://www.flipcoinsale.com)
-- [Whitepaper](/resources/WHITEPAPER.pdf)
 - [One_Pager](/resources/ONE_PAGER.pdf)
+- [Whitepaper](/resources/WHITEPAPER.pdf)
 - [Token sale flow](/SALE_MECHANISM.md)
 - [Token incentives](/TOKEN_INCENTIVES.md)
+
+
 
 ## Contract ABI
 
@@ -19,7 +22,6 @@ To be released closer to crowdsale.
 At the technical level FLP is a ERC20-compliant token, derived from [Consensys ERC20 Tokens](https://github.com/ConsenSys/Tokens).
 
 Along with the standard token, FLP has added functionality such as emergency stop/starts and minting options during crowdsales. 
-
 
 # Contracts
 
