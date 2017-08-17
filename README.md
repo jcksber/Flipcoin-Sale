@@ -1,15 +1,20 @@
 # Flipcoin Crowdsale Details
 
 
-<img src = "coinflip-site/images/logo.png"/>
+<img src = "/resources/CoinFlip_Banner.png"/>
 
-Important resources:
-- [Flipcoin Sale Website](https://www.flipcoinsale.com)
+## Important Resources
+- [Company Website](https://www.coinflip.tech)
+- [Crowdsale Website](https://www.flipcoinsale.com)
 - [Token sale flow](/SALE_MECHANISM.md)
-- [Whitepaper](/WHITEPAPER.pdf)
+- [One_Pager](/resources/ONE_PAGER.pdf
+- [Whitepaper](/resources/WHITEPAPER.pdf)
 
+## Contracts
 
-## TOKEN
-
+Token:
+- [
+- [Flipcoin (ERC223)](/sale/contracts/token/Flipcoin20.sol)
+- 
 
 
