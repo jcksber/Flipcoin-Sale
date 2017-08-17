@@ -5,7 +5,7 @@
 
 CoinFlip turns purchasing cryptocurrencies into an easy and straightforward process. What we do is simple; we deploy cryptocurrency ATMs and conduct in- person bitcoin trades, and earn a profit by making a market.
 
-Check out our [Company Website](https://www.coinflip.tech) for more details.
+Check out our [Crowdsale Website](https://www.flipcoinsale.com) and [Company Website](https://www.coinflip.tech) for more details.
 
 
 # Coinflip Crowdsale
@@ -19,14 +19,13 @@ Check out the following resources for more information!
 ## Important Resources
 - [Whitepaper](/resources/WHITEPAPER.pdf)
 - [One Pager](/resources/ONE_PAGER.pdf)
-- [Crowdsale Website](https://www.flipcoinsale.com)
 - [Token sale flow](/SALE_MECHANISM.md)
 - [Token incentives](/TOKEN_INCENTIVES.md)
 
-
 ## Contract ABI
 
-To be released closer to crowdsale.
+To be released closer to crowdsale launch.
+
 
 # Technical definition
 
@@ -45,4 +44,4 @@ Token sale:
 
 For questions, [contact us](info@coinflip.tech) or give us a call at: (773) 800-0106.
 
-<div style="text-align:center"><img src = "/resources/logo.png"/>
+<div style="text-align:center"><img src = "/resources/CoinFlip_Logo.png"/>
